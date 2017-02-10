@@ -39,7 +39,7 @@ Congruent task: 10.053 seconds Incongruent task: 21.287 seconds
   **Std Dev** : 4.797057122
 
 
-
+### Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
 
 
 
