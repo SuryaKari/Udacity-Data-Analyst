@@ -37,9 +37,13 @@ Congruent task: 10.053 seconds Incongruent task: 21.287 seconds
   **Mean** : 22.01591667
   **Median** : 21.0175
   **Std Dev** : 4.797057122
+  
+  **Comparison** : On Average, it takes about 7.96 seconds longer for people to read the incongruent words than the congruent words**
 
 
 ### Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
 
 
+![Congruent Vs Incongruent](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/CvIC.PNG)
 
+We can clearly see from the graph above that it takes people longer to finish the incongruent words than the congruent one
