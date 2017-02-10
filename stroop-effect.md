@@ -69,6 +69,8 @@ From the values in the difference, we can calculate the Standard Error
 
 As we can see, the T Statistic of the difference falls in the critical zone (Higher than T-Critical), so we have enough evidence to *REJECT THE NULL HYPOTHESIS*
 
-**CONCLUSION** : The Time taken for reading the congruent words is different from the time taken for reading the incongruent words. 
+### CONCLUSION   
+  
+The Time taken for reading the congruent words is different from the time taken for reading the incongruent words. 
         
 
