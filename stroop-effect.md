@@ -38,8 +38,11 @@ Congruent task: 10.053 seconds Incongruent task: 21.287 seconds
   **Median** : 21.0175
   **Std Dev** : 4.797057122
   
-  **Comparison** : On Average, it takes about 7.96 seconds longer for people to read the incongruent words than the congruent words**
-
+  **Difference** :  
+    
+    **Mean** : -7.964791667
+    **Median** : -7.6665
+    **Standard Deviation** : 4.864
 
 ### Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
 
@@ -47,3 +50,25 @@ Congruent task: 10.053 seconds Incongruent task: 21.287 seconds
 ![Congruent Vs Incongruent](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/CvIC.PNG)
 
 We can clearly see from the graph above that it takes people longer to finish the incongruent words than the congruent one
+
+### Now, perform the statistical test and report your results. What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
+
+From the values in the difference, we can calculate the Standard Error  
+  
+**Standard Error** = Standard Deviation of Difference / Sqrt(Number of Observations)    
+**Calculated Value** = 2.0930  
+  
+**T Value** = Mean Difference/Standard Error    
+**Calculated Value** = -8.02071  
+  
+**For 23 Degrees of Freedom and for an Alpha value of 0.05** : T Critical is + or - 2.0686  
+  
+**Confidence Interval** = Mean of Difference + or - Margin of Error  
+**Margin of Error** = tcritical * S.E  
+**Calculated Value** = -24.55 to 8.62  
+
+As we can see, the T Statistic of the difference falls in the critical zone (Higher than T-Critical), so we have enough evidence to *REJECT THE NULL HYPOTHESIS*
+
+**CONCLUSION** : The Time taken for reading the congruent words is different from the time taken for reading the incongruent words. 
+        
+
