@@ -35,13 +35,14 @@ The second part of the export command, **> environment.yaml** writes the exporte
 ## MARKDOWN Shortcuts
 
 1. Math expressions
-You can create math expressions in Markdown cells using LaTeX symbols. Notebooks use MathJax to render the LaTeX symbols as math symbols. To start math mode, wrap the LaTeX in dollar signs $y = mx + b$ for inline math. For a math block, use double dollar signs.  
+You can create math expressions in Markdown cells using [LaTeX](http://data-blog.udacity.com/posts/2016/10/latex-primer/)   symbols. Notebooks use MathJax to render the LaTeX symbols as math symbols. To start math mode, wrap the LaTeX in dollar signs $y = mx + b$ for inline math. For a math block, use double dollar signs.  
+
 
 **$$
 y = \frac{a}{b+c}
 $$**
   
-This is a really useful feature, so if you don't have experience with LaTeX please read this primer on using it to create math expressions.
+This is a really useful feature, so if you don't have experience with [LaTeX](http://data-blog.udacity.com/posts/2016/10/latex-primer/)   please read this primer on using it to create math expressions.
 
 
 ## Jupyter Notebook Terminal Commands
