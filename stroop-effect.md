@@ -42,7 +42,8 @@ Technically, we have a hunch that it will take longer to read letters that state
 
 #### Now it’s your chance to try out the Stroop task for yourself. Go to this link, which has a Java-based applet for performing the Stroop task. Record the times that you received on the task (you do not need to submit your times to the site.) Now, download this dataset which contains results from a number of participants in the task. Each row of the dataset contains the performance for one participant, with the first number their results on the congruent task and the second number their performance on the incongruent task.
 
-Congruent task: 10.053 seconds Incongruent task: 21.287 seconds
+Congruent task: 10.053 seconds  
+Incongruent task: 21.287 seconds
 
 #### Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
 
