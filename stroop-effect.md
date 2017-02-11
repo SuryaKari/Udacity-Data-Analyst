@@ -24,7 +24,7 @@ The Dependent variable is the time it takes to read the color of the printed wor
 
 ##### Mathematical Representation  
   
-H<sub>o</sub> : *u*<sub>D</sub> = *u*<sub>2</sub>) - *u*<sub>1</sub> = 0 (Null Hypothesis)  
+H<sub>o</sub> : *u*<sub>D</sub> = *u*<sub>2</sub> - *u*<sub>1</sub> = 0 (Null Hypothesis)  
   
 H<sub>A</sub> : *u*<sub>D</sub> = *u*<sub>2</sub> - *u*<sub>1</sub> ≠ 0 (Alternative Hypothesis)  
   
