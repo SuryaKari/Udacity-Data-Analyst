@@ -1,5 +1,8 @@
 # Udacity-Data-Analyst
-Data Analyst Course
+
+## Resources :
+
+[Conda Cheat Sheet](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/conda_cheatsheet.md) 
 
 **Finished Courses** :
 
