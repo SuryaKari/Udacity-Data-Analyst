@@ -1,10 +1,10 @@
 # Udacity-Data-Analyst
 
-## Resources :
+## Resources 
 
 [Surya's Conda Cheat Sheet](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/conda_cheatsheet.md) 
 
-**Finished Courses** :
+## Finished Courses
 
 **Chapter 1** : 
 
