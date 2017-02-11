@@ -16,7 +16,7 @@ Statistics Project : [Investigate a Perceptual Phenomenon Called the Stroop Effe
 
 ## Practice Projects 
 
-[Practice 1: Fibonacci Series, Magic Commands and Keyboard Shortcuts](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Fibonacci%2BSeries.ipynb)
+Practice 1 : [Fibonacci Series, Magic Commands and Keyboard Shortcuts](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Fibonacci%2BSeries.ipynb)
 
 ## Finished Chapters
 
