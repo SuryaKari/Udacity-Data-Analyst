@@ -3,7 +3,7 @@ Data Analyst Course
 
 **Finished Courses** :
 
-**Course 1** : 
+**Chapter 1** : 
 
 STATISTICS : **Completed**  
   
@@ -19,3 +19,5 @@ Lesson 9: Hypothesis Testing - Completed
 Lesson 10a: t-Tests - Completed  
 Lesson 10b: t-Tests - Completed  
 Lesson 11: t-Tests - Completed  
+
+Chapter Project : [Link](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
