@@ -1,4 +1,8 @@
-# Udacity-Data-Analyst
+# Udacity Data Analyst Program
+
+The Data Analyst Nanodegree program is specifically designed for a career in Data Science. As a Data Analyst, you are responsible for obtaining, analyzing, and effectively reporting on data insights ranging from business metrics to user behavior and product performance. This program’s curriculum was developed with leading industry partners to ensure students master the most cutting-edge curriculum. Graduates will emerge fully prepared for this amazing career.
+
+**Industry Partners** : Facebook and MongoDB
 
 ## Resources 
 
