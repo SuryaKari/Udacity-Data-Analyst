@@ -26,4 +26,4 @@ Lesson 10a: t-Tests - Completed
 Lesson 10b: t-Tests - Completed  
 Lesson 11: t-Tests - Completed  
 
-Chapter Project : [Link](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
+Chapter Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
