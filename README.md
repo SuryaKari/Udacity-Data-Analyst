@@ -11,12 +11,12 @@ The Data Analyst Nanodegree program is specifically designed for a career in Dat
 
 ## Projects 
 
-Chapter One Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
+Statistics Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
 
 
 ## Finished Chapters
 
-**INTRODUCTION TO STATISTICS** : **Completed**  
+**Statistics** : **Completed**  
   
 Lesson 1: Intro to Research Methods - Completed  
 Lesson 2: Visualizing Data - Completed  
