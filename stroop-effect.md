@@ -4,6 +4,7 @@
 
 1. https://en.wikipedia.org/wiki/Stroop_effect
 2. https://faculty.washington.edu/chudler/java/ready.html
+3. https://drive.google.com/file/d/0B9Yf01UaIbUgQXpYb2NhZ29yX1U/view : Data for this analysis
 
 ## Q & A
 
