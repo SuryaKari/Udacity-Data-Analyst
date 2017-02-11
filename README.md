@@ -6,7 +6,8 @@ The Data Analyst Nanodegree program is specifically designed for a career in Dat
 
 ## Resources 
 
-[Surya's Conda Cheat Sheet](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/conda_cheatsheet.md) 
+[Surya's Conda Cheat Sheet](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/conda_cheatsheet.md)  
+[Adams Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 ## Finished Chapters
 
