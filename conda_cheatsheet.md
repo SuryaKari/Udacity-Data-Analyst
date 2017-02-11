@@ -32,6 +32,18 @@ The second part of the export command, **> environment.yaml** writes the exporte
 
 13. If there are environments you don't use anymore, **conda env remove -n env_name** will remove the specified environment
 
+## MARKDOWN Shortcuts
+
+1. Math expressions
+You can create math expressions in Markdown cells using LaTeX symbols. Notebooks use MathJax to render the LaTeX symbols as math symbols. To start math mode, wrap the LaTeX in dollar signs $y = mx + b$ for inline math. For a math block, use double dollar signs.  
+
+**$$
+y = \frac{a}{b+c}
+$$**
+  
+This is a really useful feature, so if you don't have experience with LaTeX please read this primer on using it to create math expressions.
+
+
 ## Jupyter Notebook Terminal Commands
 
 After you have installed Anaconda and created a conda environment, you can use this to create a Jupyter notebook session 
