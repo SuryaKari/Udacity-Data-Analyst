@@ -22,3 +22,12 @@
 9. Once you have an environment created, use **source activate my_env**
 
 10. When you're in the environment, you'll see the environment name in the terminal prompt. Something like **(my_env) ~ $**. The environment has only a few packages installed by default, plus the ones you installed when creating it. You can check this out with **conda list**. Installing packages in the environment is the same as before: **conda install package_name**. Only this time, the specific packages you install will only be available when you're in the environment. To leave the environment, type **source deactivate** (on OSX/Linux).
+
+11. **Saving and loading environments**  
+A really useful feature is sharing environments so others can install all the packages used in your code, with the correct versions. You can save the packages to a **YAML** file with **conda env export > environment.yaml**. The first part conda env export writes out all the packages in the environment, including the Python version.  
+The second part of the export command, **> environment.yaml** writes the exported text to a YAML file environment.yaml. This file can now be shared and others will be able to create the same environment you used for the project.
+  * Example : **conda env create -f environment.yaml**
+  
+12. If you forget what your environments are named, use **conda env list**
+
+13. If there are environments you don't use anymore, **conda env remove -n env_name** will remove the specified environment
