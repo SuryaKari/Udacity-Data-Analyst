@@ -31,3 +31,10 @@ The second part of the export command, **> environment.yaml** writes the exporte
 12. If you forget what your environments are named, use **conda env list**
 
 13. If there are environments you don't use anymore, **conda env remove -n env_name** will remove the specified environment
+
+## Jupyter Notebook Terminal Commands
+
+After you have installed Anaconda and created a conda environment, you can use this to create a Jupyter notebook session 
+
+1) To start a notebook server, enter **jupyter notebook** in your terminal or console. This will start the server in the directory you ran the command in. 
+
