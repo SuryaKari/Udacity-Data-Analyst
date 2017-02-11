@@ -14,6 +14,9 @@ The Data Analyst Nanodegree program is specifically designed for a career in Dat
 
 Statistics Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
 
+## Practice Projects 
+
+[Practice 1: Fibonacci Series, Magic Commands and Keyboard Shortcuts](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Fibonacci%2BSeries.ipynb)
 
 ## Finished Chapters
 
