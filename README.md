@@ -9,6 +9,11 @@ The Data Analyst Nanodegree program is specifically designed for a career in Dat
 [Surya's Cheat Sheet](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/conda_cheatsheet.md)  
 [Adams Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## Projects 
+
+Chapter One Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
+
+
 ## Finished Chapters
 
 **INTRODUCTION TO STATISTICS** : **Completed**  
@@ -25,5 +30,3 @@ Lesson 9: Hypothesis Testing - Completed
 Lesson 10a: t-Tests - Completed  
 Lesson 10b: t-Tests - Completed  
 Lesson 11: t-Tests - Completed  
-
-Chapter Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
