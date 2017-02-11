@@ -1,4 +1,8 @@
-# Conda Terminal CheatSheet
+# Surya's Cheat Sheet to everything
+
+The idea of this cheatsheet is to add anything to this that I might use as a reference in the future. 
+
+## Conda Terminal CheatSheet
 
 1. To install a package, type conda install package_name in your terminal.  **conda install numpy**
   
