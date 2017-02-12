@@ -8,7 +8,7 @@ The Data Analyst Nanodegree program is specifically designed for a career in Dat
 
 [Surya's Cheat Sheet](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/conda_cheatsheet.md)  
 [Adams Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-[Jupyter Notebooks Keyboard Shortcuts](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/keyboard-shortcuts.ipynb)
+[Jupyter Notebooks Keyboard Shortcuts](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/keyboard-shortcuts.ipynb)  
 [Built In Magic Commands](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 ## Projects 
