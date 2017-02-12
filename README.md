@@ -9,14 +9,11 @@ The Data Analyst Nanodegree program is specifically designed for a career in Dat
 [Surya's Cheat Sheet](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/conda_cheatsheet.md)  
 [Adams Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [Jupyter Notebooks Keyboard Shortcuts](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/keyboard-shortcuts.ipynb)
+[Built In Magic Commands](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 ## Projects 
 
 Statistics Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md)
-
-## Practice Projects 
-
-Practice 1 : [Fibonacci Series, Magic Commands and Keyboard Shortcuts](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Fibonacci%2BSeries.ipynb)
 
 ## Finished Chapters
 
