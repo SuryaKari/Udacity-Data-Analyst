@@ -32,3 +32,7 @@ Lesson 9: Hypothesis Testing - Completed
 Lesson 10a: t-Tests - Completed  
 Lesson 10b: t-Tests - Completed  
 Lesson 11: t-Tests - Completed  
+
+**Investigate a Dataset** : **In Progress**  
+
+Practice Python Notebook : 
