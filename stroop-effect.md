@@ -10,10 +10,15 @@
 
 #### What is our independent variable? What is our dependent variable?
 
-Our Independent variable is the color of the printed word on the screen. 
-The Dependent variable is the time it takes to read the color of the printed word on the screen. 
+Independent Variable : The color / Word congruency being manipulated on the screen. 
+Dependent variable : The time it takes to read or name the color of the word on the screen. 
 
 #### Null and alternative hypotheses are clearly stated in words and mathematically. Symbols in the mathematical statement are defined.
+
+* **T-test or Z-test** : A t-test is a more appropritate test in this case for the following reasons:  
+  **1.** : Population mean and population standard deviation is unknown  
+  **2.** : The test is a dependent samples test and we have the same participant's being tested under different conditions  
+  **3.** : An appropriate test would be a two tailed paired t-test  
 
 * **Null Hypothesis** : The null hypothesis will state that the times taken for a reader to read congruent letters vs the incongruent letters is the same and has no effect on the reading times
 
@@ -70,6 +75,8 @@ Incongruent task: 21.287 seconds
 
 
 ![Congruent Vs Incongruent](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/CvIC.PNG)
+
+
 
 We can clearly see from the graph above that it takes people longer to finish the incongruent words than the congruent one
 
