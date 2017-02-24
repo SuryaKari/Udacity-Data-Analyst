@@ -73,12 +73,17 @@ Incongruent task: 21.287 seconds
 
 ### Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
 
+#### Box Plot  
+  
+![Congruent Box Plot](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Congruent.png)    
+![InCongruent Box Plot](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Incongruent.png)    
+  
+#### Line Plot
 
 ![Congruent Vs Incongruent](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/CvIC.PNG)
 
 
-
-We can clearly see from the graph above that it takes people longer to finish the incongruent words than the congruent one
+We can clearly see from the Box plot and the line graph above that it takes people longer to finish the incongruent words than the congruent one
 
 ### Now, perform the statistical test and report your results. What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
 
