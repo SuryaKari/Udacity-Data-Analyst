@@ -74,9 +74,11 @@ Incongruent task: 21.287 seconds
 ### Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
 
 #### Box Plot  
+  **Congruent Plot**  
+![Congruent Box Plot](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/chart.jpeg)    
   
-![Congruent Box Plot](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Congruent.png)    
-![InCongruent Box Plot](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Incongruent.png)    
+  **InCongruent Plot**  
+![InCongruent Box Plot](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/chart(1).jpeg)    
   
 #### Line Plot
 
