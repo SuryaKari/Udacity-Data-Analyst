@@ -36,14 +36,12 @@ Lesson 10a: t-Tests - Completed
 Lesson 10b: t-Tests - Completed  
 Lesson 11: t-Tests - Completed  
 
-**Investigate a Dataset** : ** Completed ** 
+**Investigate a Dataset** : **Completed** 
 
 Practice Python Notebook : [Investigate a Dataset about Udacity Enrollments](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/L1_Starter_Code.ipynb)
 
-*** ANACONDA AND JUPYTER NOTEBOOKS***
-Lesson 1 : Anaconda1 - Completed
-Lesson 2 : Jupyter notebooks - Completed
-*** INTRO TO DATA ANALYSIS ***
-Lesson 3 : Data Analysis Process - Completed
-Lesson 4 : NumPy and Pandas for 1D Data - Completed
-Lesson 5 : NumPy and Pandas for 2D Data - Completed
+Lesson 1 : Anaconda1 - Completed  
+Lesson 2 : Jupyter notebooks - Completed  
+Lesson 3 : Data Analysis Process - Completed  
+Lesson 4 : NumPy and Pandas for 1D Data - Completed  
+Lesson 5 : NumPy and Pandas for 2D Data - Completed  
