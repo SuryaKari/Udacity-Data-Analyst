@@ -16,6 +16,8 @@ The Data Analyst Nanodegree program is specifically designed for a career in Dat
 ## Projects 
 
 Statistics Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md) ( [Click here for Pdf](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Stroop_Effct.pdf) )  : [Review of Project](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/P1_Review) 
+
+Investigate a Dataset : [Investigate Titanic Data and Find the factors that made people more likely to survive?](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Titanic_Project.ipynb)
   
 ## Finished Chapters
 
@@ -34,6 +36,14 @@ Lesson 10a: t-Tests - Completed
 Lesson 10b: t-Tests - Completed  
 Lesson 11: t-Tests - Completed  
 
-**Investigate a Dataset** : **In Progress**  
+**Investigate a Dataset** : ** Completed ** 
 
 Practice Python Notebook : [Investigate a Dataset about Udacity Enrollments](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/L1_Starter_Code.ipynb)
+
+*** ANACONDA AND JUPYTER NOTEBOOKS***
+Lesson 1 : Anaconda1 - Completed
+Lesson 2 : Jupyter notebooks - Completed
+*** INTRO TO DATA ANALYSIS ***
+Lesson 3 : Data Analysis Process - Completed
+Lesson 4 : NumPy and Pandas for 1D Data - Completed
+Lesson 5 : NumPy and Pandas for 2D Data - Completed
