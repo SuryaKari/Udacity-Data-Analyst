@@ -1,0 +1,8 @@
+import sqlite3
+
+# Fetch some student records from the database.
+db = sqlite3.connect("Database_Table")
+c = db.cursor()
+query = "select * from Database_Table order by name;"
+c.execute(query)
+rows = c.fetchall()
