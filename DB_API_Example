@@ -6,3 +6,9 @@ c = db.cursor()
 query = "select * from Database_Table order by name;"
 c.execute(query)
 rows = c.fetchall()
+
+
+# if we need to insert rows into the database
+
+c.execute("insert into names values ('Surya Kari')")
+db.commit()
