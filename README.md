@@ -30,7 +30,7 @@ Lesson 10a: t-Tests - Completed
 Lesson 10b: t-Tests - Completed  
 Lesson 11: t-Tests - Completed  
 
-### Chapter Project :  
+**Chapter Project** :  
 
 Statistics Project : [Investigate a Perceptual Phenomenon Called the Stroop Effect](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/stroop-effect.md) ( [Click here for Pdf](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Stroop_Effct.pdf) )  : [Review of Project](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/P1_Review) 
 
@@ -44,6 +44,6 @@ Lesson 3 : Data Analysis Process - Completed
 Lesson 4 : NumPy and Pandas for 1D Data - Completed  
 Lesson 5 : NumPy and Pandas for 2D Data - Completed  
 
-### Chapter Project :
+**Chapter Project** : 
 
 Investigate a Dataset : [Investigate Titanic Data and Find the factors that made people more likely to survive?](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Titanic_Project.ipynb)
