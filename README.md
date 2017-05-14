@@ -47,3 +47,13 @@ Lesson 5 : NumPy and Pandas for 2D Data - Completed
 **Chapter Project** : 
 
 Investigate a Dataset : [Investigate Titanic Data and Find the factors that made people more likely to survive?](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Titanic_Project.ipynb)
+
+**Data Wrangling** : **In Progress** 
+
+Lesson 1 : Data Extraction Fundamentals - Completed  
+Lesson 2 : Data in more Complex Formats - Completed  
+Lesson 3 : Data Quality - Completed  
+Lesson 4 : Data and Tables - Completed  
+Lesson 5 : Elements of SQL - Completed  
+Lesson 6 : Deeper Into SQL - In Progress 
+  * DB-API Example : [Example](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/DB-API-Example)
