@@ -56,4 +56,4 @@ Lesson 3 : Data Quality - Completed
 Lesson 4 : Data and Tables - Completed  
 Lesson 5 : Elements of SQL - Completed  
 Lesson 6 : Deeper Into SQL - In Progress 
-  * DB-API Example : [Example](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/DB-API-Example)
+  * DB-API Example : [Example](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/DB_API_Example)
