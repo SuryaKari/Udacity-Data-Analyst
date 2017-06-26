@@ -60,4 +60,4 @@ Lesson 6 : Deeper Into SQL - Completed
   
 **Chapter Project** :
 
-OpenStreetMap Data Wrangling : 
+OpenStreetMap Data Wrangling : [City of Oshawa - Open Streetmaps XML Data Wrangling](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Osahawa_Open_Street_Maps_Wrangling.ipynb)
