@@ -50,14 +50,31 @@ Investigate a Dataset : [Investigate Titanic Data and Find the factors that made
 
 **Data Wrangling** : **Completed** 
 
-Lesson 1 : Data Extraction Fundamentals - Completed  
-Lesson 2 : Data in more Complex Formats - Completed  
-Lesson 3 : Data Quality - Completed  
-Lesson 4 : Data and Tables - Completed  
-Lesson 5 : Elements of SQL - Completed  
-Lesson 6 : Deeper Into SQL - Completed
+Lesson 1 : Data Extraction Fundamentals - Completed    
+Lesson 2 : Data in more Complex Formats - Completed    
+Lesson 3 : Data Quality - Completed    
+Lesson 4 : Data and Tables - Completed    
+Lesson 5 : Elements of SQL - Completed    
+Lesson 6 : Deeper Into SQL - Completed  
   * DB-API Example : [Example](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/DB_API_Example
   
 **Chapter Project** :
 
 OpenStreetMap Data Wrangling : [City of Oshawa - Open Streetmaps XML Data Wrangling](https://github.com/Suryak1986/Udacity-Data-Analyst/blob/master/Osahawa_Open_Street_Maps_Wrangling.ipynb)
+
+**Machine Learning Algorithms** :
+
+Lesson 1: Naive Bayes - Completed  
+Lesson 2 : Support Vector Machines - Completed  
+Lesson 3 : Decision Trees - Completed  
+Lesson 4 : Regressions - Completed  
+Lesson 5 : Outliers - Completed  
+Lesson 6 : Clustering - Completed  
+Lessson 7 : Feature Scaling - Completed  
+Lesson 8 : Principal Component Analysis - Completed  
+Lesson 9 : Text Learning - Completed  
+Lesson 10 : Feature Selection - Completed  
+  
+** Chapter Project ** : In Progress  
+  
+Identify Fraud From Enron Email : 
