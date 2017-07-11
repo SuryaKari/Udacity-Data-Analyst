@@ -75,6 +75,6 @@ Lesson 8 : Principal Component Analysis - Completed
 Lesson 9 : Text Learning - Completed  
 Lesson 10 : Feature Selection - Completed  
   
-** Chapter Project ** : In Progress  
+**Chapter Project** : In Progress  
   
 Identify Fraud From Enron Email : 
